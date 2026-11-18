@@ -2,7 +2,7 @@
 
 Quentin Stafford-Fraser je britský počítačový vědec a podnikatel, který výrazně ovlivnil svět moderních technologií a internetu. Podílel se na vývoji průkopnických projektů, jako byla vůbec první webová kamera na světě (Trojan Room Coffee Pot) nebo technologie pro vzdálené ovládání plochy počítače (VNC). Za svou kariéru působil na Univerzitě v Cambridgi, v Olivetti Research Laboratory a založil několik úspěšných start-upů.
 
-![Quentin Stafford-Fraser](quentin.jpg)
+![Quentin Stafford-Fraser](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80)
 
 - **1991:** Vytvořil se svými kolegy na Univerzitě v Cambridgi lokální systém pro sledování stavu kávovaru (Trojan Room Coffee Pot).
 - **1993:** Po spuštění webu se z projektu stala oficiálně první funkční webová kamera na světě.
@@ -21,4 +21,4 @@ Quentin Stafford-Fraser je britský počítačový vědec a podnikatel, který v
 ## Zajímavosti
 
 - Kávovar, který kamerou sledovali, se v roce 2001 vydražil na internetu za více než 3 300 liber.
-- Více informací o jeho práci si můžeš přečíst na jeho [osobním blogu](https://www.qstaffordfraser.com/).
+- Jeho práce položila základy pro dnešní online streamování a vzdálenou správu počítačů, které používá celý svět.
