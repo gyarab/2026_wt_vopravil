@@ -2,14 +2,12 @@
 
 Quentin Stafford-Fraser je britský počítačový vědec a podnikatel, který výrazně ovlivnil svět moderních technologií a internetu. Podílel se na vývoji průkopnických projektů, jako byla vůbec první webová kamera na světě (Trojan Room Coffee Pot) nebo technologie pro vzdálené ovládání plochy počítače (VNC). Za svou kariéru působil na Univerzitě v Cambridgi, v Olivetti Research Laboratory a založil několik úspěšných start-upů.
 
-![Quentin Stafford-Fraser](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Quentin_Stafford-Fraser.jpg/800px-Quentin_Stafford-Fraser.jpg)
+![Quentin Stafford-Fraser](quentin.jpg)
 
 - **1991:** Vytvořil se svými kolegy na Univerzitě v Cambridgi lokální systém pro sledování stavu kávovaru (Trojan Room Coffee Pot).
 - **1993:** Po spuštění webu se z projektu stala oficiálně první funkční webová kamera na světě.
 - **VNC (Virtual Network Computing):** Podílel se na vývoji této slavné technologie pro vzdálené ovládání plochy počítače v Olivetti Research Laboratory.
 - Stál také u zrodu technologií pro přenos obrazu přes USB (DisplayLink).
-
-Quentin Stafford-Fraser [online]. Wikipedie: Otevřená encyklopedie [cit. 2026-06-06]. Dostupné z: [Wikipedie – Quentin Stafford-Fraser](https://en.wikipedia.org/wiki/Quentin_Stafford-Fraser)
 
 ## Základní údaje
 
@@ -20,12 +18,7 @@ Quentin Stafford-Fraser [online]. Wikipedie: Otevřená encyklopedie [cit. 2026-
 | **Hlavní zásluha** | Vytvoření první webové kamery (Trojan Room Coffee Pot), podíl na vývoji VNC |
 | **Významné projekty** | Trojan Room Coffee Pot, VNC, DisplayLink |
 
----
+## Zajímavosti
 
-# Odkazy a zdroje
-
-Více detailů o jeho životě a ikonických projektech najdete na těchto odkazech:
-
-- [Osobní stránky Quentina Stafford-Frasera](https://www.qstaffordfraser.com/)
-- [Wikipedie – Quentin Stafford-Fraser](https://en.wikipedia.org/wiki/Quentin_Stafford-Fraser)
-- [Historie Trojan Room Coffee Pot](https://www.cl.cam.ac.uk/coffee/coffee.html)
+- Kávovar, který kamerou sledovali, se v roce 2001 vydražil na internetu za více než 3 300 liber.
+- Více informací o jeho práci si můžeš přečíst na jeho [osobním blogu](https://www.qstaffordfraser.com/).
